@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-style: none;
+}
+
+p {
+    color: #588c7e;
+}
+
+h1 {
+    background-color: #bccad6;
+
+}
+
+h3 {
+    background-color: #f4a688;
+}
+
+
+h1 + h3 {
+    color: #c83349;
+}
